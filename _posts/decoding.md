@@ -2,6 +2,7 @@
 title: "The art of reading other people's code"
 excerpt: 'Slides & commentary from my talk at the 2023 Indy.Code conference in Indianapolis, IN.'
 date: '2023-09-13T05:35:07.322Z'
+coverImage: '/assets/blog/decoding/cover.jpg'
 author:
   name: Jacqui Peterschmidt
   picture: '/assets/blog/authors/jacqui.png'
